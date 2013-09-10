@@ -1,4 +1,3 @@
-plague
-======
+NOTE:
 
-Source code for the Minecraft mod, 'Plague'.
+This so source code is for acknowledgement purposes only. This is for learning material as of which, you may use source code for LEARNING.
